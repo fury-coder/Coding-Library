@@ -1,0 +1,27 @@
+import java.util.*;
+class InvalidTimeException extends Exception {
+	 
+	 public InvalidTimeException(String str) {
+	  System.out.println(str);
+	 }
+}
+public class q72 {
+
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		  System.out.print("Enter time in hr min sec ");
+		  int hr = s.nextInt();
+		  int min = s.nextInt();
+		  int sec = s.nextInt();
+		  try {
+		   if(sec<=0 || sec>60 &&min<=0 || min>60&&hr<=0 || hr>24) 
+		    throw new InvalidTimeException("Invalid time");
+		   else
+		    System.out.println("Correct");
+		  }
+		  catch (InvalidTimeException a) {
+		   System.out.println(a);
+	}
+
+}
+}
