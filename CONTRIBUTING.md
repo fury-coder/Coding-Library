@@ -15,7 +15,7 @@ Do star my repository !
 
 ## Submitting a pull request
 
-0. Clone the repository
+1. Clone the repository
 0. Create a new branch: `git checkout -b my-branch-name`
 0. Make your change, add notes, and or make valid changes.
 0. Push to your branch and [submit a pull request][pr]
