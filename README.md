@@ -17,7 +17,7 @@ A repo to add notes and resources for begineers who are currently learning to pr
 >Free swags and T-Shirts from Digital Ocean
 >Chance to get a tree planted and make Earth greener
 ## CONTRIBUTING
-.
+>
 >We welcome first time contributors and open source enthusiasts. Check out our issues and if you are willing to start with something simple check issues marked with the good->first-issue tag.
 >
 >If you liked this project, please leave a 🌟
