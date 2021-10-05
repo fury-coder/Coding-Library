@@ -7,7 +7,7 @@
 >We encourage new participants to contribute and  learn.. / happy hacking.
 
 ## Python Scripts
->Use our pyhton scripts to automate your tasks.
+>Use our Python scripts to automate your tasks.
 >
 >If there is any feedback please let us know.
 
