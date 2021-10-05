@@ -6,6 +6,12 @@
 >
 >We encourage new participants to contribute and  learn.. / happy hacking.
 
+## Python Scripts
+>Use our pyhton scripts to automate your tasks.
+>
+>If there is any feedback please let us know.
+
+#
 ![](https://camo.githubusercontent.com/5a8d352f17e028b08d7afe24eeb3293740bf399826ee1e3726dbae93d685c2b7/68747470733a2f2f6861636b746f626572666573742e6469676974616c6f6365616e2e636f6d2f5f6e7578742f696d672f6c6f676f2d6861636b746f626572666573742d66756c6c2e663432653362312e737667)
  ## What is Hacktoberfest?
 >Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long celebration of open source code presented by Digital Ocean.
