@@ -1,0 +1,133 @@
+body{
+    font-family: Arial, sans-serif;
+    padding: 0 16px;
+}
+section{
+    text-align: center;
+}
+nav{
+    text-align: right;
+}
+.menu-item{
+    font-size: 13px;
+    color: rgba(0, 0, 0,0.87);
+    text-decoration: none;
+    position: relative;
+    top:-8px;
+    margin-right: 16px;
+}
+.menu-item:hover{
+    text-decoration: underline;
+}
+
+.topbar{
+    padding: 15px;
+    font-size: 15px;
+}
+.buttons{
+    background-color: #f2f2f2;
+    color: #5F6368;
+    font-size: 14px;
+    height: 36px;
+    padding: 0 16px;
+    background-image: linear-gradient(top, #f5f5f5, #f1f1f1);
+    border: 1px solid transparent;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0);
+    color: #222;
+    margin-right: 16px;
+
+}
+.buttons:hover{
+    background-image: linear-gradient(top, #f8f8f8, #f1f1f1);
+    border: 1px solid #c6c6c6;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    color: #222;
+}
+#centre{
+    text-align: center;
+    margin-top: 230px;
+}
+#input-wrapper{
+    position: relative;
+    padding: 20px;
+    width: 582px;
+    display: inline-block;
+}
+#input-wrapper > img{
+    position: absolute;
+    top:27px;
+    right:0;
+    width: 30px;
+}
+#input-field{
+    width: 100%;
+    color: #222;
+    border: 1px solid #dfe1e5;
+    font-size: 13px;
+    padding: 14px;
+    border-radius: 24px;
+    outline: none;
+
+}
+#input-field:hover{
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+    border-color: rgba(223, 225, 229, 0);
+
+}
+#input-field:focus{
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+    border-color: rgba(223, 225, 229, 0);
+
+}
+
+#profile-pic{
+    width: 25px;
+    border-radius: 1px solid white;
+    border-radius: 100%;
+    margin-right: 16px;
+    position: relative;
+    top:2px;
+}
+#dropdown-wrapper{
+    display: inline-block;
+    
+}
+#dropdown-menu
+{
+    margin-right: 16px;
+}
+#app-dropdown{
+    width: 285px;
+    padding: 28px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    position: absolute;
+    right: 100px;
+    text-align: center;
+    display: none;
+    
+}
+#dropdown-wrapper:hover
+#app-dropdown{
+    display: block;
+}
+.app-item{
+    display: inline-block;
+    width: 84px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.app-item:hover{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+.app-item > img{
+    width: 50px;
+    height: 50px;
+
+}
+.app-item >p{
+    color: rgba(0, 0, 0, 0.87);
+    margin:0;
+    padding-top:8px;
+}
