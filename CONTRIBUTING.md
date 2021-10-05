@@ -16,6 +16,11 @@ Do star my repository !
 - Add subfolders for different sub topics
 - Be sure to include code snippets / comments / explanations in your notes !
 
+##Instructions for adding your Python Scripts
+-Please try to contribute genuine self-created scprits or pr will not be accepted.
+-Whenever adding any scrpit add a separate folder with that name and also add readme.md with snippets,comments in that folder.
+-5 scripts can be added per rule . don't raise a pr if u have successfully merged 5 prs. // Happy Hacking
+
 ## Submitting a pull request
 
 1. Clone the repository
