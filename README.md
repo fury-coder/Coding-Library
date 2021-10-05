@@ -20,7 +20,7 @@
 >Free swags and T-Shirts from Digital Ocean
 >Chance to get a tree planted and make Earth greener
 ## CONTRIBUTING
->Please refer [CONTRIBUTING.md](Coding-Library/CONTRIBUTION.md) to check our policies and practices.
+>Please refer [CONTRIBUTING.md](https://github.com/fury-coder/Coding-Library/blob/main/CONTRIBUTING.md) to check our policies and practices.
 >
 >We welcome first time contributors and open source enthusiasts. Check out our issues and if you are willing to start with something simple check issues marked with the good->first-issue tag.
 >
