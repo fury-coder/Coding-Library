@@ -6,17 +6,21 @@
 >
 >We encourage new participants to contribute and  learn.. / happy hacking.
 
-## Python Scripts
->Use our Python scripts to automate your tasks.
->
->If there is any feedback please let us know.
-
 ## Reminder !!
 >This repository does not contain dsa problems or interview questions or curated quotes as it is against the rules and we strictly oppose contribution to such type of things for the sake of getting pr count and a T-shirt..
 >
 > If u try to raise any pr like that we will mark u spam and block.
 > 
 > This repo just contains web clones , python scripts and programming langauges notes and resources.. / Happy ~ Hacking
+ ## Python Scripts
+>Use our Python scripts to automate your tasks.
+>
+>If there is any feedback please let us know.
+## Web clones
+>This repo have different kinds of web clones for user learning and fun
+>
+> You can use and review our web clones ..feedback is always appreciated.
+
 
 #
 ![](https://camo.githubusercontent.com/5a8d352f17e028b08d7afe24eeb3293740bf399826ee1e3726dbae93d685c2b7/68747470733a2f2f6861636b746f626572666573742e6469676974616c6f6365616e2e636f6d2f5f6e7578742f696d672f6c6f676f2d6861636b746f626572666573742d66756c6c2e663432653362312e737667)
