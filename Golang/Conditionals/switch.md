@@ -1,17 +1,21 @@
-/*
-Switch statement
+
+ # Switch statement
 
 A switch statement is a multiway branch statement. It provides an efficient way to transfer the execution to different parts of a code based on the value(also called case) of the expression.
-*/
 
-/*
+
+
+## 
+> syntax 
+
 switch optional_statement; optional_expression{
 	case expression1: Statement..
 	case expression2: Statement..
 	...
 	default: Statement..
 }
-*/
+# 
+
 
 package main
 
@@ -69,7 +73,7 @@ func main() {
 		fmt.Println("Java")
 	}
 	//----------------------------------------------------------------------------------------------
-	// Example of Type switch  statement
+## // Example of Type switch  statement
 	var value2 interface{}
 	switch q := value2.(type) {
 	case bool:
