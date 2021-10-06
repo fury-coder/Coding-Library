@@ -1,10 +1,13 @@
 # C langaguge
 > Here you can find introduction of c lanaguge
+>
 > And different of c resources to help beginners get started.
 
 ## Resources
 >Pdf notes
+>
 >Video links
+>
 >Intro
 
 ## Contrbution
