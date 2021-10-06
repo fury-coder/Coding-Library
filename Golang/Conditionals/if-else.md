@@ -1,12 +1,11 @@
-/*
-   If statement conditions
+# If statement conditions
 
    If-else conditional statement is used in Golang when a situation leads to two conditions and one of them should hold true.
    Golang relies on indentation to define scope in the code
-*/
+
 
 /*
-    Syntax:
+   ## Syntax:
 
     if condition {
 	    code1
@@ -40,7 +39,7 @@ func main() {
 
 	*/
 
-	// && Example
+### 	// && Example
 
 	a := 200
 	b := 33
@@ -65,7 +64,7 @@ func main() {
 
 	*/
 
-	// Example
+### 	// Example
 
 	x = 41
 	if x > 10 {
