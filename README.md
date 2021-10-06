@@ -11,7 +11,7 @@
 >
 >If there is any feedback please let us know.
 
-## Reminder(attaintion)
+## Reminder !!
 >This repository does not contain dsa problems or interview questions or curated quotes as it is against the rules and we strictly oppose contribution to such type of things for the sake of getting pr count and a T-shirt..
 >
 > If u try to raise any pr like that we will mark u spam and block.
