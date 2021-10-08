@@ -1,5 +1,5 @@
 body{
-    background-image: url('./images/pngtree-technology-background-binary-computer-code-vector-design-image_458702.jpg');
+    background-image: url('images/blue-cyber-future-technology-concept-background_42077-488.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -19,11 +19,11 @@ h1{
     }
 }
 .imgs{
-    height:150px;
-    width:150px;
-    margin-top:60px
+    height:100px;
+    width:100px;
+    margin:10px;
 }
 .imgs:hover{
-    height:200px;
-    width:200px;
+    height: 140px;
+    width: 140px;
 }
