@@ -8,7 +8,7 @@ Hi there! We're thrilled that you'd like to contribute to this Hacktoberfest rep
 Do star my repository !
 
 ## Warning :
->Dsa issues and pr are not allowed.it is against the rules of hacktoberfest..so please don't create unnecessary dsa issues and all you will be marked spam by us..and also dont add name or any small files for pr count that is mot valid ..//Happy Hacking
+>Dsa issues and pr are not allowed.it is against the rules of hacktoberfest..so please don't create unnecessary dsa issues and all you will be marked spam by us..and also dont add name or any small files for pr count that is not valid ..//Happy Hacking
 
 ## Instructions for adding your notes/Web files
 
